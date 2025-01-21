@@ -1,10 +1,10 @@
 # Description
 A collection of personal solutions to [the Rosalind bioinformatics problem set](https://rosalind.info).
 
-# Purpose
-- Improve understanding of bioinformatics-related computational workflows
-- Improve understanding of bioinformatics principles
-- Build further familiarity with scientific computation tools and languages (Python and Julia)
+# Learnings
+- Bioinformatics-related computational workflows
+- Bioinformatics principles
+- Scientific computation tools and languages (Python and Julia)
 
 # Prototype
 - Building a REPL to interact with the collection
