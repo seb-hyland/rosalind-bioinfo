@@ -1,5 +1,5 @@
 # Description
-A collection of personal solutions to [the Rosalind bioinformatics problem set](https://rosalind.info).
+A collection of personal solutions to [the Rosalind bioinformatics problem set](https://rosalind.info). Currently in progress...
 
 # Learnings
 - Bioinformatics-related computational workflows
